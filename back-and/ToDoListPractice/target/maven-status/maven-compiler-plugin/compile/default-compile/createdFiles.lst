@@ -1,0 +1,4 @@
+com/example/todolistbackend/repository/TaskRepository.class
+com/example/todolistbackend/ToDoListBackEndApplication.class
+com/example/todolistbackend/controller/TaskController.class
+com/example/todolistbackend/Task.class
