@@ -1,6 +1,6 @@
 # 📝 ToDoList Application
 
-A **full‑stack ToDo List app** built with **React, Spring Boot, PostgreSQL** and containerized with **Docker**.  
+A **full‑stack ToDo List app** built with **React ⚛️, Spring Boot 🍃, PostgreSQL 💾** and containerized with **Docker 🐳**.  
 It allows users to create, update, and manage tasks. OAuth login/registration may be added in the future.  
 
 ---
@@ -35,18 +35,17 @@ ToDoList/
 
 ## 📸 Screenshots
 
-_Add some screenshots of your app below 👇_
-
 ### 📋 Task List View
-![Task List](docs/screenshots/todo-list.png)
+![Task List](Screenshots/main_window.png)
 
 ### ➕ Add Task 
-![Add Task](docs/screenshots/add-task.png)
+![Add Task](Screenshots/AddingANewTask.png)
 
 ### ☑️ Completed Task 
+![Completed Task](Screenshots/CompletedTask.png)
 
 ### ✖️ Deleted Task 
-
+![Deeleted Task](Screenshots/DeletedTask.png)
 
 ---
 
@@ -95,8 +94,6 @@ npm start
 
 ---
 
----
-
 ## 🔮 Future Improvements
 - User registration/login with JWT auth  
 - Google OAuth integration  
@@ -107,3 +104,4 @@ npm start
 
 ## 📜 License
 This project is open source and available under the **MIT License**.
+
