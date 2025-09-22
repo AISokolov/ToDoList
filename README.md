@@ -33,6 +33,23 @@ ToDoList/
 
 ---
 
+## 📸 Screenshots
+
+_Add some screenshots of your app below 👇_
+
+### 📋 Task List View
+![Task List](docs/screenshots/todo-list.png)
+
+### ➕ Add Task 
+![Add Task](docs/screenshots/add-task.png)
+
+### ☑️ Completed Task 
+
+### ✖️ Deleted Task 
+
+
+---
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -78,16 +95,6 @@ npm start
 
 ---
 
-## 📸 Screenshots
-
-_Add some screenshots of your app below 👇_
-
-### ✅ Task List View
-![Task List](docs/screenshots/todo-list.png)
-
-### ➕ Add Task View
-![Add Task](docs/screenshots/add-task.png)
-
 ---
 
 ## 🔮 Future Improvements
@@ -100,5 +107,3 @@ _Add some screenshots of your app below 👇_
 
 ## 📜 License
 This project is open source and available under the **MIT License**.
-
-```
