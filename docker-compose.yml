@@ -1,0 +1,28 @@
+version: "3.8"
+
+services:
+  backend:
+    build:
+      context: ./back-and/ToDoListPractice
+      dockerfile: Dockerfile
+    ports:
+      - "8081:8081"
+    container_name: todo-backend
+    networks:
+      - todo-network
+
+  frontend:
+    build:
+      context: ./front-end
+      dockerfile: Dockerfile
+    ports:
+      - "3000:3000"
+    container_name: todo-frontend
+    networks:
+      - todo-network
+    depends_on:
+      - backend
+
+networks:
+  todo-network:
+    driver: bridge
