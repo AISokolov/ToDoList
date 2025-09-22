@@ -1,4 +1,3 @@
-```markdown
 # 📝 ToDoList Application
 
 A **full‑stack ToDo List app** built with **React, Spring Boot, PostgreSQL** and containerized with **Docker**.  
@@ -101,4 +100,5 @@ _Add some screenshots of your app below 👇_
 
 ## 📜 License
 This project is open source and available under the **MIT License**.
+
 ```
